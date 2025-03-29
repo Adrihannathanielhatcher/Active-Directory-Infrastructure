@@ -1,5 +1,6 @@
 # Active-Directory-Infrastructure
-In this lab we will be building the foundation for an Active Directory Infrastructure. By changing the settings of the DNS IP address of our clients server we can enable them to have the same access to our domain controller throughout the network.
+
+
 * Before we start this lab it will be recommended that we use Microsoft Azure to complete the following steps, a free subscription is available inside the software. If you are looking to make a new account and need assistance you can refer to the link provided, this will give you a step by step guide on creating your account. https://www.youtube.com/watch?v=2bQ6WiJ1ncA
 
 
